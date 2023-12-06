@@ -20,14 +20,26 @@ My door is always open for exchanging ideas, collaborating on exciting projects,
 <details>
 <summary><strong>🔧 Explore Categories</strong></summary>
 
-- **Entertainment**
-  - Fun bots to lighten up your day!
+- **Discord Bots**
+  - Custom bots for your server! Let's bring your community to life.
 
-- **Productivity**
-  - Tools to boost your efficiency!
+- **Website Development**
+  - Crafting interactive and visually appealing websites tailored to your needs.
 
-- **Miscellaneous**
-  - Other cool projects I've been working on!
+- **iOS and Android App Development**
+  - Building mobile applications for both iOS and Android platforms.
+
+- **Freelance Projects**
+  - 💼 Open for hire! Taking on freelance opportunities. Need a project done? Let's discuss in Discord.
+
+</details>
+
+<details>
+<summary><strong>💬 Connect with Me</strong></summary>
+
+Feel free to reach out on Discord for project inquiries or just to chat:
+
+🔗 **Discord:** [codingyz](https://discordapp.com/users/289456496138518531)
 
 </details>
 
