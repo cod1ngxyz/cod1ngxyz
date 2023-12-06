@@ -22,15 +22,19 @@ My door is always open for exchanging ideas, collaborating on exciting projects,
 
 - **Discord Bots**
 - Custom bots for your server! Let's bring your community to life.
+- 
 
 - **Website Development**
 - Crafting interactive and visually appealing websites tailored to your needs.
+- 
 
 - **iOS and Android App Development**
 - Building mobile applications for both iOS and Android platforms.
+- 
 
 - **Freelance Projects**
 - 💼 Open for hire! Taking on freelance opportunities. Need a project done? Let's discuss in Discord.
+- 
 
 </details>
 
